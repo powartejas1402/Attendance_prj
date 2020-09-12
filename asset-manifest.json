@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Attendance_prj/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Attendance_prj/static/js/main.a8faf8e0.chunk.js",
+    "main.js.map": "/Attendance_prj/static/js/main.a8faf8e0.chunk.js.map",
+    "runtime-main.js": "/Attendance_prj/static/js/runtime-main.84c23962.js",
+    "runtime-main.js.map": "/Attendance_prj/static/js/runtime-main.84c23962.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/Attendance_prj/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.3c0ce836.chunk.js": "/Attendance_prj/static/js/2.3c0ce836.chunk.js",
+    "static/js/2.3c0ce836.chunk.js.map": "/Attendance_prj/static/js/2.3c0ce836.chunk.js.map",
+    "index.html": "/Attendance_prj/index.html",
+    "precache-manifest.90ffb3b5d572ff1a9951e53774943a31.js": "/Attendance_prj/precache-manifest.90ffb3b5d572ff1a9951e53774943a31.js",
+    "service-worker.js": "/Attendance_prj/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/Attendance_prj/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Attendance_prj/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3c0ce836.chunk.js.LICENSE.txt": "/Attendance_prj/static/js/2.3c0ce836.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Attendance_prj/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c23962.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.3c0ce836.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a8faf8e0.chunk.js"
+  ]
+}
